@@ -1,5 +1,9 @@
-# Ruby_Advanced_Building_Blocks
+Project: OOP with Ruby
 
-Projects from The Odin Project - Basic Ruby
+From The Odin Project
 
-http://www.theodinproject.com/ruby-programming/advanced-building-blocks
+http://www.theodinproject.com/ruby-programming/oop
+
+Project 1: Tic Tac Toe
+
+Project 2: Mastermind
